@@ -28,8 +28,6 @@ This repository contains the **System Reference Document** for the core rules of
 
 ## License
 
-The world of Talam, the Gradient Dice mechanics and any other original work are licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
-
-The derivative work from [Cairn by Yochai Gal](https://cairnrpg.com/) is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion, please reach out!
