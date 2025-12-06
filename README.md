@@ -1,6 +1,7 @@
 # Gradient
 
-Gradient is an open-source, rules-lite, role-playing game system based on Cairn by Yochai Gal. 
+Gradient is an open-source, rules-lite, role-playing game system based on [Cairn by Yochai Gal](https://cairnrpg.com/)
+  
 Character, Adversary, and Ambient generation are quick and random; adventures reward careful exploration, and combat is sometimes frantic and deadly. The intent is to provide a narrative-forward experience, friendly to any fantasy setting and player expertise level.
 
 Welcome to the world of **Talam**.
@@ -27,6 +28,8 @@ This repository contains the **System Reference Document** for the core rules of
 
 ## License
 
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+The world of Talam, the Gradient Dice mechanics and any other original work are licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+The derivative work from [Cairn by Yochai Gal](https://cairnrpg.com/) is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
 This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion, please reach out!
