@@ -1,6 +1,6 @@
 # Gradient
 
-Gradient is an open-source, rules-lite, role-playing game system based on [Cairn by Yochai Gal](https://cairnrpg.com/)
+Gradient is an open-license, rules-lite, role-playing game system based on [Cairn by Yochai Gal](https://cairnrpg.com/)
   
 Character, Adversary, and Ambient generation are quick and random; adventures reward careful exploration, and combat is sometimes frantic and deadly. The intent is to provide a narrative-forward experience, friendly to any fantasy setting and player expertise level.
 
