@@ -13,5 +13,10 @@
 > You are an avid student of **rot and decay**, and the cycle of decomposition. Once per rest, you can release a **cloud of spores** that affects all creatures in 20ft—choose one effect: _sleep_ (WIL save), _poison_ (1d4 STR damage), or _hallucination_ (WIL save). You are **immune to all poisons**. When you kill a living creature, mushrooms sprout from their body—you can harvest these for 1d4 rations or alchemical ingredients. You smell of earth and decay, and most find it unsettling.
 
 ## Signature [Inventory Items](../marketplace)
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
 - Herbalism Supplies
-- Seeds
+- Spellbook: _Web_
+- Staff (d6 damage)
+- Gambeson Armor (+1 Armor)

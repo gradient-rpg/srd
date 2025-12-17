@@ -12,5 +12,12 @@
 > You muster the arcane forces of the four elements: Water, Earth, Fire and Air. You can attune to one element: You always have 3 **Armor** against it and your attack spells based on it are _enhanced_. You can study and concentrate for eight hours and change your attunement. You can summon an **Elemental Sprite** that deals 1d6 damage when it attacks.
 
 ## Signature [Inventory Items](../marketplace)
- - Grimoire
- - 3x Spellbooks
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
+- Grimoire
+- Spellbook: _Shield_ (+1 Armor)
+- 2x Spellbooks of choice
+- Staff (d6 damage)
+- Chalk (_petty_)
+- Robes (_petty_)

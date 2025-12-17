@@ -13,7 +13,14 @@
 > As a sacred warrior of your faith you will be obeyed by zealots. Priests will favor you but if you step out of the line you will fall in disgrace. You dedicate your life to the faith and sworn a vow of humility (i.e. you should not hoard treasures, or boast). Once per day you can **Lay on Hands** on someone to cure disease, poison or heal 1d6 STR. Once per day you can _enhance_ an attack with **Divine Smite**.
 
 ## Signature Inventory Items
-- Holy Symbol (_petty_)
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
+- Spellbook: _Cure Wounds_
+- Helmet (*+1 Armor*)
+- War Hammer (d10 damage, _bulky_)
+- Bandages (3 uses)
+- Holy Symbol (_petty_, casts _Ward_ once per day)
 
 |         |                      |
 | ------- | -------------------- |

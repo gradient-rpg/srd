@@ -13,5 +13,11 @@
 > You are an avid student of animal behavior and kinship. You have a loyal **animal companion** (wolf, hawk, bear, or similar) that fights alongside you with 1d6 HP and deals 1d6 damage. Your companion understands your commands perfectly and can scout ahead or fetch items. If your companion dies, you can bond with a new one and bring it to combat after a week of training. You cannot speak with animals but can deduce its intentions if not hostile.
 
 ## Signature [Inventory Items](../marketplace)
- - Expeditionary Gear
- - a **Tool** of your choice
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
+- Expeditionary Gear
+- a **Tool** of your choice
+- Bandages (3 uses)
+- Gambeson Armor (**+1 Armor**)
+- Bow (d6 damage, _bulky_)

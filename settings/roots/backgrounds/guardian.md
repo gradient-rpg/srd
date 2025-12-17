@@ -13,5 +13,11 @@
 > You are an avid student of territorial protection and natural balance. Choose a **terrain type** (forest, mountain, swamp, etc.) as **your domain**. In your domain, enemies have _impaired_ stealth, and your attacks are _enhanced_. Creatures native to your domain will not attack you unless provoked.
 
 ## Signature [Inventory Items](../marketplace)
- - Expeditionary Gear
- - a **Tool** of your choice
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
+- Expeditionary Gear
+- a **Tool** of your choice
+- Bandages (3 uses)
+- Gambeson Armor (**+1 Armor**)
+- Bow (d6 damage, _bulky_)

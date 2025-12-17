@@ -12,5 +12,12 @@
 > You manipulate the forces of life and death and have a sick attraction for undead creatures. If recognized, you will be despised, banished or imprisoned in most settlements. You can speak with recently deceased corpses, they will talk to you like a friend. Get 1 **Fatigue** at the end of the conversation. You can cast **Leech Life**, inflicting **1d6 STR damage** to a target within 30ft (bypassing armor) by the same cost to your **WIL**.
 
 ## Signature [Inventory Items](../marketplace)
- - Grimoire
- - 3x Spellbooks
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
+- Grimoire
+- Spellbook: _Shield_ (+1 Armor)
+- 2x Spellbooks of choice
+- Staff (d6 damage)
+- Chalk (_petty_)
+- Robes (_petty_)

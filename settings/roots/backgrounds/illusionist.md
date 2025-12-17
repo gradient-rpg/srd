@@ -12,5 +12,12 @@
 > You are an avid student of reality's malleable nature. Your illusions are so real they can harm, create an **illusory threat** that deals 1d6 damage when it attacks. You can **alter your appearance** completely once a day and create minor illusions at will.
 
 ## Signature [Inventory Items](../marketplace)
- - Grimoire
- - 3x Spellbooks
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
+- Grimoire
+- Spellbook: _Shield_ (+1 Armor)
+- 2x Spellbooks of choice
+- Staff (d6 damage)
+- Chalk (_petty_)
+- Robes (_petty_)

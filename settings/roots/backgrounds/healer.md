@@ -13,8 +13,13 @@
 > You have learned many ways of healing, magical or practical. You always find help and resources in the temples of your faith. You can invoke divine power, brandishing your holy symbol, to repel undead (creatures **Save WIL** to resist).You can perform **Miracles**: you can bind 3 cleric spells to your Prayer Book to cast without Spellbooks while holding your **holy symbol**. You can pray for eight hours to change each Miracle you can perform.
 
 ## Signature  [Inventory Items](../marketplace)
-- Holy Symbol (_petty_)
-- Prayer Book
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
+- Spellbook: _Cure Wounds_
+- Staff (d6 damage)
+- Bandages (3 uses)
+- Holy Symbol (_petty_, casts _Ward_ once per day)
 
 |         |                      |
 | ------- | -------------------- |

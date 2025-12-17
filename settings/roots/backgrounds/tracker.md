@@ -13,6 +13,12 @@
 > You are an avid student of signs and trails. You can **track** any creature through **any terrain**. You never lose a trail _unless magic obscures it_. When you study tracks, you can ask the **Warden** what do you learn about the creature's size, weight, how long ago they passed, and their general condition. In **wilderness environments**, you always **act first in combat**. When you take time to study an enemy's patterns, your next attack against them is _enhanced_.
 
 ## Signature [Inventory Items](../marketplace)
- - Expeditionary Gear
- - Trap
- - a **Tool** of your choice
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
+- Expeditionary Gear
+- Trap
+- a **Tool** of your choice
+- Bandages (3 uses)
+- Gambeson Armor (**+1 Armor**)
+- Twin Folding Daggers (d6+d6)
