@@ -26,7 +26,7 @@ A **Gradient Setting** should clearly identify what is overridden from the core 
 - Inventory rules
 - Power Systems
 
-For a reference set of **Setting** rules, see [Gradient: Roots](/srd/settings/roots/setting-rules).
+For a reference set of **Setting** rules, see [Gradient: Roots](settings/roots/setting-rules.md).
 
 ## Dice
 
@@ -74,7 +74,7 @@ The second, is rolling their **Hit Protection**:
 
 The third step is **Setting-Specific**. Follow the Settings' _Character Creation_ Rules to roll their _Backgrounds_, _Specialization_, _Traits_ and _Inventory_.
 
-For a reference set of **Setting** character creation rules, see [Gradient: Roots](/srd/settings/roots/character-creation).
+For a reference set of **Setting** character creation rules, see [Gradient: Roots](settings/roots/character-creation).
 
 ## Power Systems
 
@@ -82,7 +82,7 @@ For a reference set of **Setting** character creation rules, see [Gradient: Root
 
 **Power Systems** aren't just reskinned magic, they're designed to reinforce the themes and feel of their setting. The cost, availability, and consequences of using power should reflect the world you're playing in. When you choose a setting, you're also choosing what "power" means and how it shapes the story the Player and the Warden are co-creating.
 
-For a reference set of **Setting** power system rules, see [Gradient: Roots](/srd/settings/roots/power-system).
+For a reference set of **Setting** power system rules, see [Gradient: Roots](settings/roots/power-system.md).
 
 ## Inventory
 
@@ -94,7 +94,7 @@ Most **Inventory** rules are going to be Setting-specific, but here is one rule 
 - _Petty_ items do not take up any slots.
 - _Bulky_ items take up **two** slots. 
 
-For a reference set of **Setting** inventory rules, see [Gradient: Roots](/srd/settings/roots/setting-rules#inventory).
+For a reference set of **Setting** inventory rules, see [Gradient: Roots](settings/roots/setting-rules.md#inventory).
 
 ## Armor
 
@@ -156,7 +156,7 @@ A failed save with the worst possible outcome.
 - Hirelings can be hired for currency, or they can be long-time, loyal companions.
 - Hirelings are **Setting-Specific**.
 
-For a reference set of **Setting** hireling rules, see [Gradient: Roots](/srd/settings/roots/setting-rules).
+For a reference set of **Setting** hireling rules, see [Gradient: Roots](settings/roots/setting-rules.md).
 
 ### Reactions
 

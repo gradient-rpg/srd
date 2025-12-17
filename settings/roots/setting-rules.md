@@ -26,11 +26,11 @@ TBD.
 
 > The first universal step of creating a new character, is rolling their core **Attributes** and  **Hit Protection**.
 
-For reference of this processes, see the [Core Rules - Character Creation](/srd/core-rules#character-creation).
+For reference of this processes, see the [Core Rules - Character Creation](/core-rules.md#character-creation).
 
 > Then we roll their setting-specific _Backgrounds_, _Specialization_, _Traits_ and _Inventory_.
 
-For more details, see [Gradient: Roots - Character Creation](character-creation).
+For more details, see [Gradient: Roots - Character Creation](character-creation.md).
 
 ### Deprivation and Fatigue
 
@@ -54,10 +54,10 @@ For more details, see [Gradient: Roots - Character Creation](character-creation)
 
 > The setting's **equipment** includes classic medieval fare: swords, axes, bows, armor from gambeson to plate, as well as lanterns, ropes, specialized tools, potions. Many items can be found for sale in towns or marketplaces, with most trade and wages conducted in **gold pieces** (gp), the standard currency of the land. **Hirelings** also have archetypal backgrounds.
 
-For more details, see [Gradient: Roots - Marketplace](marketplace).
+For more details, see [Gradient: Roots - Marketplace](marketplace.md).
 
 ### Power System
 
 > **Magic** and **Martial Prowess** are the power systems of this setting. **Magic** in Roots is potent but risky, accessible through rare reusable **spellbooks** that anyone can use if they dare, at the cost of **fatigue**. Powerful **relics** imbued with spells also exist, sometimes with unique limitations or requirements, while ephemeral **scrolls** are used up when their magic is unleashed. The rules for magic are simple but dangerous. Its use has a price, and misuse can attract attention or even disaster.
 
-For more details, see [Gradient: Roots - Power System](power-system).
+For more details, see [Gradient: Roots - Power System](power-system.md).
