@@ -13,7 +13,13 @@
 > You are not welcome in most temples, as they do not share your beliefs. But you hold your truth close: only the most holy warriors have mind and spirit strong enough to walk a path like yours without succumbing to darkness. You wield forbidden power to **fight evil with evil**. You are an avid student of corrupting magic, and can cast **Prayer of Madness**, inflicting **1d6 WIL damage** to a target within 30ft (bypassing armor). When you kill an enemy, you can choose to **absorb** their dwindling life force to **recover 1d4 HP** for the **cost of 1 Fatigue**.
 
 ## Signature [Inventory Items](../marketplace)
-- Holy Symbol (_petty_)
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
+- Spellbook: _Command_
+- Staff (d6 damage)
+- Bandages (3 uses)
+- Holy Symbol (_petty_, casts _Ward_ once per day)
 
 |         |                      |
 | ------- | -------------------- |

@@ -12,6 +12,11 @@
 > You have learned many ways of killing, you are a deadly shadow. You still owe your mentors, probably a guild, and beware of the day they will hold you accountable. With the right ingredients you can brew all kinds of **poison**. With some observations and study you can create _enhanced_ **disguises** that will fool detailed scrutiny.
 
 ## Signature [Inventory Items](../marketplace)
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
 - Lockpicks (_petty_)
 - Thieves' Tools (_petty_)
 - Poison Vials
+- Dark Hood (_petty_)
+- Twin Folding Daggers (d6+d6)

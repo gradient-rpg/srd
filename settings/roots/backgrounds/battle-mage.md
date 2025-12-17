@@ -12,5 +12,12 @@
 > You are an avid student of martial magic, imbuing arcane into blade and body. Once a day you can choose to either imbue your weapon with elemental power—your attacks become _enhanced_, OR you can imbue your body, gaining +2 Armor. You can overpower yourself doing both at the same time, at the cost of half your **WIL**, and being unable to use arcane imbuiment the next whole day.
 
 ## Signature [Inventory Items](../marketplace)
- - Grimoire
- - 3x Spellbooks
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
+- Grimoire
+- Spellbook: _Shield_ (+1 Armor)
+- 2x Spellbooks of choice
+- Sword (d8 damage)
+- Chalk (_petty_)
+- Robes (_petty_)

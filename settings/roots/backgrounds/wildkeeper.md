@@ -13,5 +13,10 @@
 > You are an avid student of fauna and flora. Animals and plants recognize you as a guardian and will aid you if you ask respectfully. When they do, Plants will grow at your command—you can cause **trap vines** to entangle foes (STR save to break free) or create **walls of thorns** for cover. Critters will attack your foes for 1d6, spy or forage for you. Those who harm nature in your presence must face your wrath, and your attacks against them are _enhanced_.
 
 ## Signature [Inventory Items](../marketplace)
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
 - Herbalism Supplies
-- Seeds
+- Spellbook: _Swarm_
+- Staff (d6 damage)
+- Gambeson Armor (+1 Armor)

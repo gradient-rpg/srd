@@ -13,4 +13,10 @@
 > Your oath gives you strength and purpose. Choose an oath when you take this path (protect the innocent, serve your lord, uphold justice, etc.). As long as you uphold your oath, you succeed at **all morale saves**. Your rank gives you credibility with nobles and the peasantry will generally follow you into dangerous situations without hesitation. You are also a skilled horseman—your mounted attacks are _enhanced_.
 
 ## Signature [Inventory Items](../marketplace)
-- a second weapon
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
+- Long Sword (d10 damage, _bulky_)
+- Shield (+1 Armor)
+- Gambeson (+1 Armor)
+- Bandages (3 uses)

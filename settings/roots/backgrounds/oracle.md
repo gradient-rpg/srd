@@ -13,7 +13,13 @@
 > You are an avid student of time and fate, seeing by faith what will be, before it happens. In combat, you predict enemy movements—their attacks against you are _impaired_. When danger looms, you sense it moments before it strikes, allowing you to **act first in combat**.
 
 ## Signature Inventory Items
-- Holy Symbol (_petty_)
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
+- Spellbook: _Read Mind_
+- Staff (d6 damage)
+- Bandages (3 uses)
+- Holy Symbol (_petty_, casts _Ward_ once per day)
 
 |         |                      |
 | ------- | -------------------- |

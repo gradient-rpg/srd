@@ -13,5 +13,12 @@
 > You are an avid **hunter of the wicked** and those who must be purged. You have seen too much evil in this world and you have become the blade that cuts it out. Greater good at any cost. Your attacks against those you have judged as evil (your choice, but be consistent) are _enhanced_. Your former allies and the church may be hunting you for your zealotry, but you know your truth: mercy is weakness when evil walks free. Humanoids have _impaired_ intimidation saves against you, and you have _enhanced_ intimidation saves against them.
 
 ## Signature [Inventory Items](../marketplace)
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
+- Flail (d8 damage)
+- Throwing Dagger (d6 damage)
+- Shield (+1 Armor)
+- Gambeson (+1 Armor)
+- Bandages (3 uses)
 - wanted posters (_petty_)
-- a second weapon

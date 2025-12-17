@@ -28,6 +28,14 @@ A **Gradient Setting** should clearly identify what is overridden from the core 
 
 For a reference set of **Setting** rules, see [Gradient: Roots](settings/roots/setting-rules.md).
 
+## Overview and Principles
+
+**Gradient** is an adventure game for 2–5 people. One person takes the role of the **Warden**, and they describe the world, guide the story, ask questions, and handle the rules and dice. The other 1–4 people are **Players**, each making a character (called a _Player Character_ or _PC_) who explores and interacts with the world the **Warden** presents.
+
+The **Warden** and the **Players** each have guidelines and principles that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+
+For an overview of the Principles, see [Gradient: Overview and Principles](overview-and-principles.md)
+
 ## Dice
 
 **Gradient** uses **2d10** for most save rolls, but also uses smaller dice such as **1d8**, **1d6**, and **1d4** for weapon damage or random table rolls. We recommend having two of each.

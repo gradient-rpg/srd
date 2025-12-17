@@ -13,4 +13,10 @@
 > You are an avid student of **animal forms** and their essence. Once per day, you can **transform into any natural animal you've studied** (wolf, bear, hawk, snake, etc.) for up to one hour. In animal form, you gain their natural abilities (flight, swimming, keen senses, etc.) and your attacks deal **1d8 damage**. When you transform back to human-form you gain **1 Fatigue**.
 
 ## Signature [Inventory Items](../marketplace)
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
 - an animal part for any natural animal you study (_petty_)
+- Spellbook: _Shield_ (+1 Armor)
+- Staff (d6 damage)
+- Gambeson Armor (+1 Armor)

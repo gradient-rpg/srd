@@ -13,5 +13,10 @@
 > You are an avid student of **wind, rain, and thunder**. Once per day, you can call down lightning to strike a target for 1d10 damage (DEX save for half), for **1 Fatigue**. Once per rest you can summon fog, wind, or rain at will to obscure vision or douse flames, for **1 Fatigue**. Your voice can be augmented by the wind, and you have _enhanced_ intimidation saves when using it. You can predict weather perfectly and sense approaching storms hours in advance. **During storms**, your **abilities cost no Fatigue** and your attacks are _enhanced_.
 
 ## Signature [Inventory Items](../marketplace)
+- 3d6 Gold Pieces
+- Rations (3 uses)
+- Torches (3 uses)
 - Herbalism Supplies
-- Wilderness Clothes
+- Spellbook: _Elemental Wall_
+- Staff (d6 damage)
+- Gambeson Armor (+1 Armor)
