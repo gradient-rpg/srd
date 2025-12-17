@@ -2,14 +2,14 @@
 
 > The first universal step of creating a new character, is rolling their core **Attributes** and **Hit Protection**.
 
-For reference of this processes, see the [Core Rules - Character Creation](/srd/core-rules#character-creation).
+For reference of this processes, see the [Core Rules - Character Creation](/core-rules.md#character-creation).
 
 Then, follow the step by step guide below.
 
 ## Roll or choose a Background
 
 - Roll randomly or choose from the [Backgrounds](#backgrounds) table below.
-- Choose a name from the available list, then record each of your character's starting items. See [Inventory](setting-rules#inventory) for how to record items. 
+- Choose a name from the available list, then record each of your character's starting items. See [Inventory](setting-rules.md#inventory) for how to record items. 
 - Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to Inventory Items from the tables in the [Marketplace](marketplace) as well.
 
 ### Backgrounds
@@ -24,13 +24,13 @@ If rolling random, first roll a **d6** to determine your _Background_, then roll
 > **Signature Move**: _Backstab_: When you attack an unaware enemy from behind or from hiding, your attack is _enhanced_
 > **Signature Inventory Items**: Lockpicks and Thieves' Tools
 
-|       |                                             |
-| ----- | ------------------------------------------- |
-| **d4** | **Background**                             |
-| **1** | [Rogue: Assassin](backgrounds/assassin)   |
-| **2** | [Rogue: Burglar](backgrounds/burglar)     |
-| **3** | [Rogue: Scout](backgrounds/scout)         |
-| **4** | [Rogue: Charlatan](backgrounds/charlatan) |
+|       |                                              |
+| ----- | -------------------------------------------- |
+| **d4** | **Background**                              |
+| **1** | [Rogue: Assassin](backgrounds/assassin.md)   |
+| **2** | [Rogue: Burglar](backgrounds/burglar.md)     |
+| **3** | [Rogue: Scout](backgrounds/scout.md)         |
+| **4** | [Rogue: Charlatan](backgrounds/charlatan.md) |
 
 #### 2. Cleric
 > **Attribute Modifiers**: -1 DEX, +1 WIL  
@@ -38,61 +38,61 @@ If rolling random, first roll a **d6** to determine your _Background_, then roll
 > **Signature Move**: _Divine Favor_: Once per day, you can reroll a failed save and take the better result
 > **Signature Inventory Items**: Holy Symbol and a Prayer Book
 
-|       |                                           |
-| ----- | ----------------------------------------- |
-| **d4** | **Background**                           |
-| **1** | [Cleric: Healer](backgrounds/healer)     |
-| **2** | [Cleric: Crusader](backgrounds/crusader) |
-| **3** | [Cleric: Oracle](backgrounds/oracle)     |
-| **4** | [Cleric: Heretic](backgrounds/heretic)   |
+|       |                                             |
+| ----- | ------------------------------------------- |
+| **d4** | **Background**                             |
+| **1** | [Cleric: Healer](backgrounds/healer.md)     |
+| **2** | [Cleric: Crusader](backgrounds/crusader.md) |
+| **3** | [Cleric: Oracle](backgrounds/oracle.md)     |
+| **4** | [Cleric: Heretic](backgrounds/heretic.md)   |
 
 #### 3. Wizard
 > **Attribute Modifiers**: -1 STR, +1 WIL  
 > **Hit Protection Modifier**: 0
 
-|       |                                                   |
-| ----- | ------------------------------------------------- |
-| **d4** | **Background**                                   |
-| **1** | [Wizard: Elementalist](backgrounds/elementalist) |
-| **2** | [Wizard: Necromancer](backgrounds/necromancer)   |
-| **3** | [Wizard: Illusionist](backgrounds/illusionist)   |
-| **4** | [Wizard: Battle Mage](backgrounds/battle-mage)    |
+|       |                                                     |
+| ----- | --------------------------------------------------- |
+| **d4** | **Background**                                     |
+| **1** | [Wizard: Elementalist](backgrounds/elementalist.md) |
+| **2** | [Wizard: Necromancer](backgrounds/necromancer.md)   |
+| **3** | [Wizard: Illusionist](backgrounds/illusionist.md)   |
+| **4** | [Wizard: Battle Mage](backgrounds/battle-mage.md)   |
 
 #### 4. Ranger
 > **Attribute Modifiers**: -1 STR, +1 DEX  
 > **Hit Protection Modifier**: +1
 
-|       |                                                  |
-| ----- | ------------------------------------------------ |
-| **d4** | **Background**                                  |
-| **1** | [Ranger: Beast Master](backgrounds/beast-master) |
-| **2** | [Ranger: Tracker](backgrounds/tracker)          |
-| **3** | [Ranger: Guardian](backgrounds/guardian)        |
-| **4** | [Ranger: Hunter](backgrounds/hunter)            |
+|       |                                                     |
+| ----- | --------------------------------------------------- |
+| **d4** | **Background**                                     |
+| **1** | [Ranger: Beast Master](backgrounds/beast-master.md) |
+| **2** | [Ranger: Tracker](backgrounds/tracker.md)           |
+| **3** | [Ranger: Guardian](backgrounds/guardian.md)         |
+| **4** | [Ranger: Hunter](backgrounds/hunter.md)             |
 
 #### 5. Warrior
 > **Attribute Modifiers**: -1 DEX, +1 STR  
 > **Hit Protection Modifier**: +1
 
-|       |                                                |
-| ----- | ---------------------------------------------- |
-| **d4** | **Background**                                |
-| **1** | [Warrior: Mercenary](backgrounds/mercenary)   |
-| **2** | [Warrior: Champion](backgrounds/champion)     |
-| **3** | [Warrior: Knight](backgrounds/knight)         |
-| **4** | [Warrior: Inquisitor](backgrounds/inquisitor) |
+|       |                                                  |
+| ----- | ------------------------------------------------ |
+| **d4** | **Background**                                  |
+| **1** | [Warrior: Mercenary](backgrounds/mercenary.md)   |
+| **2** | [Warrior: Champion](backgrounds/champion.md)     |
+| **3** | [Warrior: Knight](backgrounds/knight.md)         |
+| **4** | [Warrior: Inquisitor](backgrounds/inquisitor.md) |
 
 #### 6. Druid
 > **Attribute Modifiers**: -1 DEX, +1 WIL  
 > **Hit Protection Modifier**: 0
 
-|       |                                                  |
-| ----- | ------------------------------------------------ |
-| **d4** | **Background**                                  |
-| **1** | [Druid: Shapeshifter](backgrounds/shapeshifter) |
-| **2** | [Druid: Wildkeeper](backgrounds/wildkeeper)     |
-| **3** | [Druid: Stormcaller](backgrounds/stormcaller)   |
-| **4** | [Druid: Spore Sage](backgrounds/spore-sage)     |
+|       |                                                    |
+| ----- | -------------------------------------------------- |
+| **d4** | **Background**                                    |
+| **1** | [Druid: Shapeshifter](backgrounds/shapeshifter.md) |
+| **2** | [Druid: Wildkeeper](backgrounds/wildkeeper.md)     |
+| **3** | [Druid: Stormcaller](backgrounds/stormcaller.md)   |
+| **4** | [Druid: Spore Sage](backgrounds/spore-sage.md)     |
 
 ## Modify **Attributes**, **Hit Protection**, and roll for **Traits**, **Bonds**, **Age** and **Omens**
 
