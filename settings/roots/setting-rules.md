@@ -1,6 +1,6 @@
 # Gradient: Roots
 
-> **Roots** is a medieval fantasy setting for **Gradient**, inspired by classic tales of swords, sorcery, and strange forgotten places. **Characters** are created choosing archetypal **Backgrounds** like Warrior, Ranger, Wizard, or Druid with unique signature moves. **Magic** and **Martial Prowess** are the main **Power Systems** in this setting, and the **Economy** revolves around **gold pieces (gp)**.
+> **Roots** is a medieval, mid-high fantasy setting for **Gradient**, inspired by classic tales of swords, sorcery, and strange forgotten places. **Characters** are created choosing archetypal **Backgrounds** like Warrior, Ranger, Wizard, or Druid with unique signature moves. **Magic** and **Martial Prowess** are the main **Power Systems** in this setting, and the **Economy** revolves around **gold pieces (gp)**.
 > 
 > Adventurers in Roots explore wild lands and cities, delve into decrepit castles, dark forests, and other whimsical or dreadful places.
 
@@ -16,11 +16,96 @@ None.
 
 ### Ambients
 
-TBD.
+Ambients are locations with a personality. Not just a backdrop — a place with its own logic, pressures, and agenda. It has people or beings with wants, corners with dangers, rhythms that exist whether the players show up or not. When players walk in, forces are already in motion.
 
-### Antagonists
+This setting has Ambients that represent bustling cities or neighborhoods, dangerous traversals, misterious delves and grand events. All detailed and very alive.
 
-TBD.
+The **Warden**'s job is to make that aliveness felt, and the ambient is the tool that helps them do it.
+
+For Gradient: Roots, here are a list of pre-made [Ambients]().
+
+#### Creating your own Ambients
+
+To create an **Ambient**, think of what makes it alive and the relationship between it and _NPCs_, _Antagonists_ and _PCs_.
+Give it a **TITLE** and write a prose-forward **DESCRIPTION**, demonstrating what makes this ambient unique.
+
+Choose a **TYPE**: Social, Traversal, Event or Delve.
+- **Social** focuses on roleplay, negotiation, and gathering information through dialogue with NPCs.
+- **Traversal** manages the challenge and mechanics of moving the party through a dangerous location or situation.
+- **Event** covers scripted or sudden occurrences like traps, ambushes, rituals, or puzzles that demand immediate action.
+- **Delve** are multi-leveled locations to explore, filled with danger, lore and loot. Dungeons, Towers, Cave Systems, you name it.
+
+Then, **GRAVITAS**. This is the emotional and behavioral engine of the place. Explain why NPCs/Antagonists act the way they do here — what pressures, desires, fears, or loyalties shape them. Then explain what that means for the PCs: what will NPCs/Antagonists instinctively want from them, do to them, or project onto them. This should cover both positives and negatives. It is a behavioral logic, not a threat list. Write a prose-forward description.
+
+Finally, think of the **TRAITS** of this ambient:
+- **Passive:** Constant effects or traits that are always active in the area (like "Extreme Heat" or "Magical Darkness"). Describe them in detail.
+- **Action:** Specific abilities the **Warden** can activate to directly influence the scene or hinder the players.
+- **Reaction:** Triggered effects that occur automatically in response to a player's action or a specific outcome to a **Griefful Success** or a **Failure** save.
+- **Event:** Significant, one-time occurrences that shift the narrative or change the ambient's state. Can be a quick event or a pointer to a bigger **Event Ambient**.
+
+Think of 5-7 **TRAITS** for your Ambient. Give them a **NAME**, a **TYPE** and a **DESCRIPTION**.
+
+Once you're done, this is the Markdown formatting for your new Ambient:
+
+```
+# [TITLE]
+**_[Type]_**
+
+_[Description]_
+
+**Gravitas:** [Gravitas]
+---
+## TRAITS
+> #### [Trait Name] - [Trait Type]: 
+> [Trait Description]
+```
+
+### Antagonist Archetypes
+
+A lackey or a cultist might behave very differently than a courtesan or a lieutenant — both in social events and in battle strategy.
+
+The goal of the Antagonists framework is not to provide a bestiary, but a list of possibilities for crafting antagonists, along with a budget formula for designing balanced encounters.
+
+An antagonist can be anything: a person, a ghost, an animal, an enchanted object. We won't restrict what can be an antagonist, but rather enhance _anything_ with a behavior archetype.
+
+| Archetype | Cost | Description | Behavior |
+| :--- | :--- | :--- | :--- |
+| **Elite** | 5 | A boss or commander capable of fighting an entire party. | Multi-attack, shrug off debuffs, demand focus, escalate. |
+| **Juggernaut** | 4 | Massive health and high damage; designed to soak up hits. | Defend territory, pummel, grapple, ignore pain. |
+| **Controller** | 3 | Manipulates the battlefield or narrative via non-raw force. | Summon **Mobs** and **Swarms** in battle <sup>(1)</sup>, Confuse, debuff, manipulate emotions, zone denial. |
+| **Stalker** | 2 | High-damage glass cannons relying on stealth and distance. | Hit and run, hide, target the weak, set traps. |
+| **Vanguard** | 2 | The reliable baseline for the average foe. | Hold the line, coordinated strikes, provide cover. |
+| **Tactician** | 2 | Grants allies extra actions and maneuvers to exploit terrain. | Reposition allies, call targets, exploit openings, rally. |
+| **Swarm** | 2 | A pack of identical **Mobs** <sup>(2)</sup>, which move and attack separately, but has a shared pool of health. | Overwhelm, harass, immobilize, gang up, raid |
+| **Mob** | 1 | A low, flimsy foe. | Surround, overwhelm, sacrifice numbers, clog movement. |
+
+> <small>(1) They can summon **Mobs** and **Swarms** in battle, without extra budget consideration.</small>
+> <small>(2) When one element of the **Swarm** is defeated, the swarm is disbanded/defeated.</small>
+
+#### Budget
+
+The recommendation for designing balanced encounters is to consider a _budget of 3x the number of PCs_ entering combat, then allocate **Antagonist Archetypes** from the list above within that budget.
+
+If the party is using _Hirelings_, count every two hirelings as one PC.
+
+After calculating your budget, consider the modifiers below.
+
+#### Modifiers
+
+- -2 if stacking Elites and/or Juggernauts (one of each or more)
+- -1 budget for shorter or easier fights
+- +1 budget if you're not using an Elite or a Juggernaut
+- +2 budget if want the PCs to face a remarkable challenge
+
+All of these are options, and you can create your own as well.
+
+> **For a practical example:**
+> If the party consists of two PCs, each with one _Hireling_, and you want to design a boss battle, this scenario produces a budget of 9 for buying Antagonist Archetypes. You could buy, for example:
+> - One Elite (5) + One Juggernaut (4); _or_
+> - One Elite (5) + Two Vanguards (2); _or_
+> - One Juggernaut (4) + One Controller (3) + Two Mobs or Supports (1);
+>
+> etc...
 
 ### Character Creation
 
@@ -42,7 +127,7 @@ For more details, see [Gradient: Roots - Character Creation](character-creation.
 
 - Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
 - Each PC starts with a **Backpack** that can hold up to six slots of items or **Fatigue**. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
-- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. A character cannot fill more than ten slots.
+- Inventory is abstract, dependent only on the fiction as adjudicated by the **Warden**. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. A character cannot fill more than ten slots.
 
 #### Inventory Slots
 

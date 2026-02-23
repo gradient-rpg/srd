@@ -12,9 +12,9 @@
 
 ## Setting Agnostic
 
-**Gradient** separates its **Core** rules and mechanics from setting-specific rules and mechanics, to allow stories across any era or genre. 
+**Gradient** separates its **Core** rules and mechanics from **Setting-Specific** rules and mechanics, to allow stories across any era or genre. 
 
-The **Core Rules** provide what is universal: Player Characters mechanics such as _attributes_, _hit protection_, _armor_, _saves_; dice mechanics in the _Gradient of Grace and Grief_; and _Combat_ flow. These work whether you're wielding a sword, a pistol, or a plasma cannon.
+The **Core Rules** provide what is universal: Player Characters mechanics such as _attributes_, _hit protection_, _armor_, _saves_; dice mechanics in the _Gradient of Grace and Grief_; and _Combat_ flow. These work whether you're wielding a metal or laser sword, a bow, pistol or plasma gun.
 However, every adventure needs concrete details: How do you manage _inventory, deprivation, fatigue_? What _equipment_ exists? What _currency_ do people use? What does _magic or power_ look like? A medieval fantasy world might handle these very differently than a steampunk future or a post-apocalyptic wasteland.
 For this reason, **Gradient Settings** define inventory systems, equipment lists, currency, and the nature of magic or powers within their specific context. When you choose or create a setting, you're choosing how these essential elements manifest in your story. The core rules remain the same; the flavor of your world setting brings them to life.
 
@@ -39,6 +39,8 @@ For an overview of the Principles, see [Gradient: Overview and Principles](overv
 ## Dice
 
 **Gradient** uses **2d10** for most save rolls, but also uses smaller dice such as **1d8**, **1d6**, and **1d4** for weapon damage or random table rolls. We recommend having two of each.
+
+For how **Gradient** resolves Save Rools, check the section [Saves & Risk](#saves) below.
 
 ## Player Characters
 
@@ -118,7 +120,7 @@ For a reference set of **Setting** inventory rules, see [Gradient: Roots](settin
 - If two opponents are each trying to overcome the other, whoever is most at risk should save.
 - If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
 
-### Roll Under
+#### Roll Under
 
 To **succeed** on a [save](#saves), you need to roll **equal to or less** than the target number you're trying to beat. If you **roll above, you fail**. But the narrative result of such success or failure is not binary.
 
@@ -130,12 +132,14 @@ To visually represent **Grace and Grief**, we suggest that each d10 dice have a 
 
 #### Critical Success
 
-Two equal dice are always a critical success.
+Two equal dice are always a **critical success**.
+
+The result is a successful save with its most optimal outcome. Better than you could have expected.
 
 #### Graceful Success
 > You rolled the dice, and the summed result is equal to or less than the target you are trying to beat. The die representing Grace is higher than the die representing Grief.
 
-The result is a successful save with its most optimal outcome.
+The result is a successful save, as you expected.
 
 #### Griefful Success
 > You rolled the dice, and the summed result is equal to or less than the target you are trying to beat. The die representing Grief is higher than the die representing Grace.

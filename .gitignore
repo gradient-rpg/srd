@@ -1,0 +1,24 @@
+# Ignore anything under the .scripts folder
+.scripts/
+
+# Node.js / JavaScript related
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.npm/
+.node_repl_history
+
+# Build / cache outputs
+dist/
+build/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
