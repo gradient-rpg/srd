@@ -29,10 +29,11 @@ For Gradient: Roots, here are a list of sample [Ambients](). They are not meant 
 To create an **Ambient**, think of what makes it alive and the relationship between it and _NPCs_, _Antagonists_ and _PCs_.
 Give it a **TITLE** and write a prose-forward **DESCRIPTION**, demonstrating what makes this ambient unique.
 
+Add a **CONTENT WARNING** if the ambient contains themes or triggers that might be distressing to some players. This is not a list of threats, but a heads-up about the emotional and psychological terrain of the ambient.
+
 Choose a **TYPE**: Social, Traversal, Event or Delve.
 - **Social** focuses on roleplay, negotiation, and gathering information through dialogue with NPCs.
 - **Traversal** manages the challenge and mechanics of moving the party through a dangerous location or situation.
-- **Event** covers scripted or sudden occurrences like traps, ambushes, rituals, or puzzles that demand immediate action.
 - **Delve** is a multi-leveled location to explore, filled with danger, lore and loot. Dungeons, Towers, Cave Systems, you name it.
 
 Then, **LOCAL DYNAMICS**. This is the emotional and behavioral engine of the place. Explain why NPCs/Antagonists act the way they do here — what pressures, desires, fears, or loyalties shape them. Then explain what that means for the PCs: what will NPCs/Antagonists instinctively want from them, do to them, or project onto them. This should cover both positives and negatives. It is a behavioral logic, not a threat list. Write a prose-forward description.
