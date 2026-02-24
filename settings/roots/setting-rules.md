@@ -22,7 +22,7 @@ This setting has Ambients that represent bustling cities or neighborhoods, dange
 
 The **Warden**'s job is to make that aliveness felt, and the ambient is the tool that helps them do it.
 
-For Gradient: Roots, here are a list of pre-made [Ambients]().
+For Gradient: Roots, here are a list of sample [Ambients](). They are not ment as a complete set, but as a few samples go guide the creation of your own **Ambients** for your adventure.
 
 #### Creating your own Ambients
 
@@ -35,7 +35,7 @@ Choose a **TYPE**: Social, Traversal, Event or Delve.
 - **Event** covers scripted or sudden occurrences like traps, ambushes, rituals, or puzzles that demand immediate action.
 - **Delve** is a multi-leveled location to explore, filled with danger, lore and loot. Dungeons, Towers, Cave Systems, you name it.
 
-Then, **GRAVITAS**. This is the emotional and behavioral engine of the place. Explain why NPCs/Antagonists act the way they do here — what pressures, desires, fears, or loyalties shape them. Then explain what that means for the PCs: what will NPCs/Antagonists instinctively want from them, do to them, or project onto them. This should cover both positives and negatives. It is a behavioral logic, not a threat list. Write a prose-forward description.
+Then, **LOCAL DYNAMICS**. This is the emotional and behavioral engine of the place. Explain why NPCs/Antagonists act the way they do here — what pressures, desires, fears, or loyalties shape them. Then explain what that means for the PCs: what will NPCs/Antagonists instinctively want from them, do to them, or project onto them. This should cover both positives and negatives. It is a behavioral logic, not a threat list. Write a prose-forward description.
 
 Finally, think of the **TRAITS** of this ambient:
 - **Passive:** Constant effects or traits that are always active in the area (like "Extreme Heat" or "Magical Darkness"). Describe them in detail.
@@ -53,7 +53,7 @@ Once you're done, this is the Markdown formatting for your new Ambient:
 
 _[Description]_
 
-**Gravitas:** [Gravitas]
+**Local Dynamics:** [Local Dynamics]
 ---
 ## TRAITS
 > #### [Trait Name] - [Trait Type]: 
