@@ -42,7 +42,7 @@ Finally, think of the **TRAITS** of this ambient:
 - **Passive:** Constant effects or traits that are always active in the area (like "Extreme Heat" or "Magical Darkness"). Describe them in detail.
 - **Action:** Specific abilities the **Warden** can activate to directly influence the scene or hinder the players.
 - **Reaction:** Triggered effects that occur automatically in response to a player's action or a specific outcome to a **Griefful Success** or a **Failure** save.
-- **Event:** Significant, one-time occurrences that shift the narrative or change the ambient's state. Can be a quick event or a pointer to a bigger **Event Ambient**.
+- **Event:** Significant, one-time occurrences that shift the narrative or change the ambient's state.
 
 Think of 5-7 **TRAITS** for your Ambient. Give them a **NAME**, a **TYPE** and a **DESCRIPTION**.
 
