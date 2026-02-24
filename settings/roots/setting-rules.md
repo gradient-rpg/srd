@@ -18,11 +18,11 @@ None.
 
 Ambients are locations with a personality. Not just a backdrop — a place with its own logic, pressures, and agenda. It has people or beings with wants, corners with dangers, rhythms that exist whether the players show up or not. When players walk in, forces are already in motion.
 
-This setting has Ambients that represent bustling cities or neighborhoods, dangerous traversals, misterious delves and grand events. All detailed and very alive.
+This setting has Ambients that represent bustling cities or neighborhoods, dangerous traversals and mysterious delves. All detailed and very alive.
 
 The **Warden**'s job is to make that aliveness felt, and the ambient is the tool that helps them do it.
 
-For Gradient: Roots, here are a list of sample [Ambients](). They are not ment as a complete set, but as a few samples go guide the creation of your own **Ambients** for your adventure.
+For Gradient: Roots, here are a list of sample [Ambients](). They are not meant as a complete set, but as a few samples to guide the creation of your own **Ambients** for your adventure.
 
 #### Creating your own Ambients
 
