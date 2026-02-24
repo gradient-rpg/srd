@@ -1,5 +1,6 @@
-# Ignore anything under the .scripts folder
+# Ignore anything under the . folders
 .scripts/
+.github/
 
 # Node.js / JavaScript related
 node_modules/
