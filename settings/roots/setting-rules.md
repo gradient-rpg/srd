@@ -52,6 +52,8 @@ Once you're done, this is the Markdown formatting for your new Ambient:
 # [TITLE]
 **_[Type]_**
 
+**Content Warning / Triggers:** [Content Warning]
+
 _[Description]_
 
 **Local Dynamics:** [Local Dynamics]
