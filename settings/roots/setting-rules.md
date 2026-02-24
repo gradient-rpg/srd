@@ -31,7 +31,7 @@ Give it a **TITLE** and write a prose-forward **DESCRIPTION**, demonstrating wha
 
 Add a **CONTENT WARNING** if the ambient contains themes or triggers that might be distressing to some players. This is not a list of threats, but a heads-up about the emotional and psychological terrain of the ambient.
 
-Choose a **TYPE**: Social, Traversal, Event or Delve.
+Choose a **TYPE**: Social, Traversal or Delve.
 - **Social** focuses on roleplay, negotiation, and gathering information through dialogue with NPCs.
 - **Traversal** manages the challenge and mechanics of moving the party through a dangerous location or situation.
 - **Delve** is a multi-leveled location to explore, filled with danger, lore and loot. Dungeons, Towers, Cave Systems, you name it.
