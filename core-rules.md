@@ -1,12 +1,35 @@
 # Gradient
 
->**Gradient** is an open-license, rules-lite, modular adventure game based on [Cairn by Yochai Gal](https://cairnrpg.com/), about exploring a world in movement, filled with strange folk, hidden treasure, and unspeakable monstrosities.
+>**Gradient** is an open-license, rules-lite, modular adventure game based on [Cairn 2e by Yochai Gal](https://cairnrpg.com/) and [Maze Rats 4.3 by Ben Milton / Questing Beast Games](https://questingbeast.itch.io/maze-rats), about exploring a world in movement, filled with strange folk, hidden treasure, and unspeakable monstrosities.
+> 
+> **Gradient** and the **Settings** available in this repository are distributed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). This is the same license used in the base **Cairn** and **Maze Rats** systems.
 >
->**Gradient** aims to be setting agnostic, and its core rules do not assume a fantasy genre. **Settings** implement a specific fantasy genre, and reflects that into _Antagonists_, _Ambients_, Character's _Backgrounds_ and _Specializations_, _Inventory_ and _Marketplace_, _Currency_, and more.
+>**Gradient** aims to be setting agnostic, and its core rules do not assume a fantasy genre. **Settings** implement a specific fantasy genre, and reflects that into _Antagonists_, _Ambients_, Player Character's _Backgrounds_ and _Specializations_, _Inventory_ and _Marketplace_, _Currency_, and more.
 >  
->**Characters**, **Antagonists**, and **Ambients** can be generated quickly and randomly. Adventures reward thoughtful exploration, while combat is often fast-paced and dangerous. The **Gradient Dice** provides an opportunity for narrative forward dice resolution.
+>**Antagonists** and **Characters** can be generated quickly and randomly. Adventures reward thoughtful exploration, while combat is often fast-paced and dangerous. The **Gradient Dice** provides an opportunity for narrative forward dice resolution.
+>
+>**Ambients** represent locations with a personality. Not just a backdrop, but a place with its own logic, pressures, and agenda. It has people or beings with wants, corners with dangers, rhythms that exist whether the players show up or not. When players walk in, forces are already in motion.
 >
 >The goal is to offer a narrative-focused experience that welcomes any fantasy setting and any level of player familiarity, blending modern mechanics while remaining fairly rules-lite.
+
+## Inspiration
+
+> This system takes inspiration from many great sources, including tabletop game systems, fiction books, movies, and other media.  
+> Tabletop game systems such as **Genesys** by _Fantasy Flight Games_, **Daggerheart** by _Darrington Press_, **Apocalypse World** by _Lumpley Games_, **Cypher** by _Monte Cook Games_, **Dreamscape: Laruna** by _ODAM Publishing_, **Knave** and **Maze Rats** by _Ben Milton_, and of course, **Cairn** by _Yochai Gal_ (and some of its hacks), inspired the team to pursue an old-school RPG feel while also embracing modern ideas and frameworks.  
+> Video games such as **Final Fantasy** and **Chrono Trigger** by _Square Enix_, with their varied settings (sometimes within the same game).  
+> Books and audiovisual media such as **The Lord of the Rings** by _J.R.R. Tolkien_ and **The Chronicles of Narnia** by _C.S. Lewis_, **The Wheel of Time** by _Robert Jordan_ and _Brandon Sanderson_, along with many other sources, inspired the team to create a system where stories like these could be co-created by **Players** and **Wardens**.
+
+The full text of the [**Gradient System Reference Document**](core-rules.md) and the [**Gradient: Roots**](settings/roots/setting-rules.md) setting are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## License
+
+The full text of the [**Gradient System Reference Document**](core-rules.md) and the [**Gradient: Roots**](settings/roots/setting-rules.md) setting are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+This is a game that values community contributions! If you'd like to submit an adventure, setting, hack or a conversion, please reach out!
+
+## Thanks
+
+This game would not be possible without the openness of the tabletop RPG community, and the work of many creators who have inspired us. A _Special Thanks_ to **Yochai Gal** and **Ben Milton** for their incredible work on **Cairn** and **Maze Rats**, which laid the foundation **Gradient** is built upon. Another _Special Thanks_ to the many creators which have inspired us to create a system that can accommodate the stories we love, and to the many people who have contributed to the development of this game through playtesting, feedback, and support.
 
 # Core Rules
 
@@ -85,6 +108,110 @@ The second, is rolling their **Hit Protection**:
 The third step is **Setting-Specific**. Follow the Settings' _Character Creation_ Rules to roll their _Backgrounds_, _Specialization_, _Traits_ and _Inventory_.
 
 For a reference set of **Setting** character creation rules, see [Gradient: Roots](settings/roots/character-creation).
+
+## Antagonist Archetypes
+
+A lackey or a cultist might behave very differently than a courtesan or a lieutenant — both in social events and in battle strategy.
+
+The goal of the Antagonists Archetypes is not to provide a compendium of specific _Antagonists_, but an agnostic framework of possibilities, along with a budget formula for designing balanced encounters, independent of **setting**.
+
+| Archetype | Cost | Description | Behavior |
+| :--- | :--- | :--- | :--- |
+| **Elite** | 5 | A boss or commander capable of fighting an entire party. | Multi-attack, shrug off debuffs, demand focus, escalate. |
+| **Juggernaut** | 4 | Massive health and high damage; designed to soak up hits. | Defend territory, pummel, grapple, ignore pain. |
+| **Controller** | 3 | Manipulates the battlefield or narrative via non-raw force. | Summon **Mobs** and **Swarms** in battle <sup>(1)</sup>, Confuse, debuff, manipulate emotions, zone denial. |
+| **Stalker** | 2 | High-damage glass cannons relying on stealth and distance. | Hit and run, hide, target the weak, set traps. |
+| **Vanguard** | 2 | The reliable baseline for the average foe. | Hold the line, coordinated strikes, provide cover. |
+| **Tactician** | 2 | Grants allies extra actions and maneuvers to exploit terrain. | Reposition allies, call targets, exploit openings, rally. |
+| **Swarm** | 2 | A pack of identical **Mobs** <sup>(2)</sup>, which move and attack separately, but has a shared pool of health. | Overwhelm, harass, immobilize, gang up, raid |
+| **Mob** | 1 | A low, flimsy foe. | Surround, overwhelm, sacrifice numbers, clog movement. |
+
+> <small>(1) A **Controller** can summon **Mobs** and **Swarms** in battle, without extra budget consideration.</small>
+> <small>(2) When one element of the **Swarm** is defeated, the swarm is disbanded/defeated.</small>
+
+### Budget
+
+The recommendation for designing balanced encounters is to consider a _budget of **3x the number of PCs**_ entering combat, then allocate **Antagonist Archetypes** from the list above within that budget.
+
+If the party is using _Hirelings_, count every **two** hirelings as one PC.
+
+After calculating your budget, consider the modifiers below.
+
+### Modifiers
+
+- -2 if stacking Elites and/or Juggernauts (one of each or more)
+- -1 budget for shorter or easier fights
+- +1 budget if you're not using an Elite or a Juggernaut
+- +2 budget if want the PCs to face a remarkable challenge
+
+All of these are options, and you can create your own as well. Consider your PCs experience and current status when deciden to lighten up or intensify the encounter you're designing.
+
+> **For a practical example:**
+> If the party consists of two PCs, each with one _Hireling_, and you want to design a boss battle, this scenario produces a budget of 9 for buying Antagonist Archetypes. You could buy, for example:
+> - One Elite (5) + One Juggernaut (4) for a challenging encounter; _or_
+> - One Elite (5) + Two Vanguards (2); _or_
+> - One Juggernaut (4) + One Controller (3) + Two Mobs or Supports (1);
+>
+> etc...
+
+### Setting Specific Antagonists
+
+_Archetypes_ are universal, but the specific _Antagonists_ that fill those archetypes are not. Each setting should have its own compendium of specific _Antagonists_, with unique traits and behaviors that fit the world.
+
+A specific _Antagonist_ is better suited for generation inside a **Setting**, where their traits and behavior can be flavored by the world they inhabit. For example, a Controller in a medieval fantasy setting might be a necromancer who summons skeletons, while in a sci-fi setting they could be a hacker who deploys drones.
+
+## Ambients
+
+### Ambients
+
+Ambients are locations with a personality. Not just a backdrop — a place with its own logic, pressures, and agenda. It has people or beings with wants, corners with dangers, rhythms that exist whether the players show up or not. When players walk in, forces are already in motion.
+
+Ambients may represent bustling cities or neighborhoods, dangerous traversals and mysterious delves. All detailed and very alive.
+
+The **Warden**'s job is to make that aliveness felt, and the ambient is the tool that helps them do it.
+
+Each **Setting** should have its own compendium of specific **Ambients**, with unique traits and dynamics that fit the world. For example, a city in a medieval fantasy setting might have a bustling market square, while in a post-apocalyptic setting it could be a dangerous, crumbling ruin.
+
+For a reference set of **Setting** Ambients, see [Gradient: Roots](settings/roots/setting-rules.md#ambients).
+
+### Creating your own Ambients
+
+To create an **Ambient**, think of what makes it alive and the relationship between it and _NPCs_, _Antagonists_ and _PCs_.
+Give it a **TITLE** and write a prose-forward **DESCRIPTION**, demonstrating what makes this ambient unique.
+
+Add a **CONTENT WARNING** if the ambient contains themes or triggers that might be distressing to some players. This is not a list of threats, but a heads-up about the emotional and psychological terrain of the ambient.
+
+Choose a **TYPE**: Social, Traversal or Delve.
+- **Social** focuses on roleplay, negotiation, and gathering information through dialogue with NPCs.
+- **Traversal** manages the challenge and mechanics of moving the party through a dangerous location or situation.
+- **Delve** is a multi-leveled location to explore, filled with danger, lore and loot. Dungeons, Towers, Cave Systems, you name it.
+
+Then, **LOCAL DYNAMICS**. This is the emotional and behavioral engine of the place. Explain why NPCs/Antagonists act the way they do here — what pressures, desires, fears, or loyalties shape them. Then explain what that means for the PCs: what will NPCs/Antagonists instinctively want from them, do to them, or project onto them. This should cover both positives and negatives. It is a behavioral logic, not a threat list. Write a prose-forward description.
+
+Finally, think of the **TRAITS** of this ambient:
+- **Passive:** Constant effects or traits that are always active in the area (like "Extreme Heat" or "Magical Darkness"). Describe them in detail.
+- **Action:** Specific abilities the **Warden** can activate to directly influence the scene or hinder the players.
+- **Reaction:** Triggered effects that occur automatically in response to a player's action or a specific outcome to a **Griefful Success** or a **Failure** save.
+- **Event:** Significant, one-time occurrences that shift the narrative or change the ambient's state.
+
+Think of 5-7 **TRAITS** for your Ambient. Give them a **NAME**, a **TYPE** and a **DESCRIPTION**.
+
+Once you're done, this is the Markdown formatting for your new Ambient:
+
+```
+# [TITLE]
+**_[Type]_**
+
+**Content Warning / Triggers:** [Content Warning]
+
+_[Description]_
+
+**Local Dynamics:** [Local Dynamics]
+---
+## TRAITS
+> #### [Trait Name] - [Trait Type]: 
+> [Trait Description]
+```
 
 ## Power Systems
 
