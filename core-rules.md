@@ -113,23 +113,23 @@ For a reference set of **Setting** character creation rules, see [Gradient: Root
 
 A lackey or a cultist might behave very differently than a courtesan or a lieutenant — both in social events and in battle strategy.
 
-The goal of the Antagonists Archetypes is not to provide a compendium of specific _Antagonists_, but an agnostic framework of possibilities, along with a budget formula for designing balanced encounters, independent of **setting**.
+The goal of the Antagonists Archetypes is not to provide a compendium of specific _Antagonists_, but an agnostic framework of possibilities, along with a budget formula for designing balanced encounters, independent of **Setting**.
 
 | Archetype | Cost | Description | Behavior |
-| :--- | :--- | :--- | :--- |
-| **Elite** | 5 | A boss or commander capable of fighting an entire party. | Multi-attack, shrug off debuffs, demand focus, escalate. |
+| :--- | :---: | :--- | :--- |
+| **Elite**      | 5 | A boss or commander capable of fighting an entire party. | Multi-attack, shrug off debuffs, demand focus, escalate. |
 | **Juggernaut** | 4 | Massive health and high damage; designed to soak up hits. | Defend territory, pummel, grapple, ignore pain. |
-| **Controller** | 3 | Manipulates the battlefield or narrative via non-raw force. | Summon **Mobs** and **Swarms** in battle <sup>(1)</sup>, Confuse, debuff, manipulate emotions, zone denial. |
-| **Stalker** | 2 | High-damage glass cannons relying on stealth and distance. | Hit and run, hide, target the weak, set traps. |
-| **Vanguard** | 2 | The reliable baseline for the average foe. | Hold the line, coordinated strikes, provide cover. |
-| **Tactician** | 2 | Grants allies extra actions and maneuvers to exploit terrain. | Reposition allies, call targets, exploit openings, rally. |
-| **Swarm** | 2 | A pack of identical **Mobs** <sup>(2)</sup>, which move and attack separately, but has a shared pool of health. | Overwhelm, harass, immobilize, gang up, raid |
-| **Mob** | 1 | A low, flimsy foe. | Surround, overwhelm, sacrifice numbers, clog movement. |
+| **Controller** | 4 | Manipulates the battlefield or narrative via non-raw force. | Summon **Mobs** and **Swarms** in battle <sup>(1)</sup>, Confuse, debuff, manipulate emotions, zone denial. |
+| **Stalker**    | 3 | High-damage glass cannons relying on stealth and distance. | Hit and run, hide, target the weak, set traps. |
+| **Tactician**  | 2 | Grants allies extra actions and maneuvers to exploit terrain. | Reposition allies, call targets, exploit openings, rally. |
+| **Vanguard**   | 2 | The reliable baseline for the average foe. | Hold the line, coordinated strikes, provide cover. |
+| **Swarm**      | 2 | A pack of identical **Mobs** <sup>(2)</sup>, which move and attack separately, but has a shared pool of health. | Overwhelm, harass, immobilize, gang up, raid |
+| **Mob**        | 1 | A low, flimsy foe. | Surround, overwhelm, sacrifice numbers, clog movement. |
 
 > <small>(1) A **Controller** can summon **Mobs** and **Swarms** in battle, without extra budget consideration.</small>
 > <small>(2) When one element of the **Swarm** is defeated, the swarm is disbanded/defeated.</small>
 
-### Budget
+### Balanced Encounters
 
 The recommendation for designing balanced encounters is to consider a _budget of **3x the number of PCs**_ entering combat, then allocate **Antagonist Archetypes** from the list above within that budget.
 

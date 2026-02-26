@@ -16,6 +16,38 @@ None.
 
 ### Antagonists
 
+For Gradient: Roots, here a compendium of sample [Antagonists](/settings/roots/antagonists/). They are not meant as a complete set, but as a few samples to guide the creation of your own **Antagonists** for your adventure.
+
+#### Balanced Encounters
+
+The Warden can refer to the core rules for encounter generation, considering the _Antagonists_ by their **Archetypes**. For more details, see [Gradient Core Rules - Balanced Encounters](../../core-rules.md#balanced-encounters).
+
+#### Antagonist Categories
+
+| **d20** | **Category**      | **Antagonists** | | |
+| ------- | ----------------- | --- | --- | --- |
+|         |                   | **Rank 1** (_Elite_, _Juggernaut_, _Controller_) | **Rank 2** (_Stalker_, _Vanguard_, _Tactician_) | **Rank 3** (_Swarm_, _Mob_) |
+| **1**   | **Avian**         | Roc, Wyvern                                        | Eagle, Falcon, Phoenix | Juvenile |
+| **2**   | **Beast**         | Dire Boar, Thunder Stag                            | Blood Elk, Grizzly Bear, Killer Bee, Night Cat, Viper, Wolf  | Rat |
+| **3**   | **Behemoth**      | Basilisk, Green Dragon, Hydra, Purple-Worm, Wyvern |  |  |
+| **4**   | **Construct**     | Cobblehound                                        | Bone Construct, Gargoyle | Gizmo |
+| **5**   | **Darkling**      | Dark Commander                                     | Hellhound, Nightmare | Wisp |
+| **6**   | **Extraplanar**   | Eye of Terror, Mind Lasher                         |  |  |
+| **7**   | **Fey**           | Frost Elf, Druid                                   | Boggart, Dryad, Night Hag, Pixie, Red-cap, Sea Hag, Will-o-wisp | Wisp |
+| **8**   | **Giant**         | Sky Giant, Storm Giant, Titan                      | Ettin |  |
+| **9**   | **Goblinoid**     | Troll                                              | Bugbear, Goblin, Hobgoblin, Ogre, Root Goblin, Wood Troll | Kobold |
+| **10**  | **Humanoid**      | Hooded Men                                         | Acolyte, Bandit, Gnoll, Triton | Cutpurse |
+| **11**  | **Hybrid**        | Minotaur                                           | Centaur, Harpy, Manticore, Owlbear | Juvenile |
+| **12**  | **Incorporeal**   | Shadow                                             | Banshee, Ghost, Invisible Stalker | Wisp  |
+| **13**  | **Insectoid**     | Broodmother                                        | Aranea, Burrowing Horror, Cave Locust, Giant Scorpion | Wasp |
+| **14**  | **Lizard**        | Hydra                                              | Basilisk, Kobold, Naga, Reptilian | Juvenile |
+| **15**  | **Magical**       | Earth, Fire, Water and Wind Elementals             | Blink Dog, Warp Panther | Mote |
+| **16**  | **Mythical**      | Sphinx                                             | Griffon, Lamia, Unicorn | Juvenile |
+| **17**  | **Plant**         | Sentient Tree                                      | Creeping Vines, Root Witch, Shambling Mound, Treant | Eater |
+| **18**  | **Shape Shifter** | Protean                                            | Mimic, Swine Thing, Werewolf | Wisp |
+| **19**  | **Undead**        | Crypt Guardian, Lich, Vampire, Wight               | Ghoul, Mummy, Skeleton, Zombie | Wisp  |
+| **20**  | **Unusual**       | Void Lord                                          | Gelatinous Ooze, Mimic, Rust Monster, Warrior Snail | Wisp |
+
 ### Ambients
 
 For Gradient: Roots, here a compendium of sample [Ambients](/settings/roots/ambients/). They are not meant as a complete set, but as a few samples to guide the creation of your own **Ambients** for your adventure.
